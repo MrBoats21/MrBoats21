@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Desenvolvedor web Full Stack e estudante de programação. Focado em iniciar uma carreira no mercado de tecnologia. Algumas das minhas stacks são: JavaScript, HTML, CSS, React (Redux, Hooks e Context API), Jest, Node, TypeScript, Express, MySQL, MongoDB, Docker e utilização de Metodologias Ágeis.
+
+email: mrenanrguimaraes@gmail.com
+
+Adoro interagir, criar coisas com outras pessoas, compartilhar conhecimento e viver a tecnologia!
