@@ -6,6 +6,8 @@ Eu sou um Desenvolvedor Web Full Stack que adora trabalhar em projetos desafiado
 
 Atualmente finalizando o curso de Desenvolvimento Web na Trybe, Trabalhando em projetos pessoais e à procura do meu primeiro trabalho na área de tecnologia.
 
+<hr/>
+
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -20,11 +22,11 @@ Atualmente finalizando o curso de Desenvolvimento Web na Trybe, Trabalhando em p
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
  
-<div align='center'>
-  <hr/>
-    <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBoats21&&theme=dracula&layout=compact" />
-  <hr/>
-</div>
+
+   <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBoats21&&theme=dracula&layout=compact" />
+   
+   <hr/>
+
   
  **Ferramentas de Desenvolvimento**
 
