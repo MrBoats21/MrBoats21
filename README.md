@@ -19,9 +19,10 @@ Atualmente finalizando o curso de Desenvolvimento Web na Trybe, Trabalhando em p
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-
-
+  
+<hr/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBoats21&&theme=dracula&layout=compact" />
+<hr/>
   
  **Ferramentas de Desenvolvimento**
 
