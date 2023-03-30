@@ -22,6 +22,7 @@ Atualmente finalizando o curso de Desenvolvimento Web na Trybe, Trabalhando em p
  
 <div align='center'>
   <hr/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBoats21&&theme=dracula&layout=compact" />
   <hr/>
 </div>
   
@@ -49,8 +50,6 @@ Acesse  <a href='https://marcus-guimaraes-portfolio.vercel.app/'>aqui</a>.
 
 <a href="https://github.com/MrBoats21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrBoats21&theme=dracula&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBoats21&&theme=dracula&layout=compact" />
-
 </a>
 
 <hr/>
