@@ -8,7 +8,7 @@ Eu sou um Desenvolvedor Web Full Stack que adora trabalhar em projetos desafiado
 
 Atualmente finalizando o curso de Desenvolvimento Web na Trybe, Trabalhando em projetos pessoais e à procura do meu primeiro trabalho na área de tecnologia.
 
-<h2>O que eu posso fazer<h2>
+<h2>O que eu posso fazer</h2>
   
 Eu tenho experiência em HTML, CSS, JavaScript, React, Vue, Python, MySQL, MongoDB, e eu posso ajudar em projetos relacionados a essas áreas. Eu também estou aberto a aprender novas habilidades e tecnologias.
 
