@@ -1,22 +1,19 @@
 ### Olá 👋
 
-<!--
-**MrBoats21/MrBoats21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Olá, sou o Marcus!</h1>
 
-Here are some ideas to get you started:
+<h2>Sobre mim</h2>
+Eu sou um Desenvolvedor Web Full Stack que adora trabalhar em projetos desafiadores e aprender novas tecnologias. Eu estou sempre procurando maneiras de melhorar minhas habilidades e expandir meu conhecimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente finalizando o curso de Desenvolvimento Web na Trybe, Trabalhando em projetos pessoais e à procura do meu primeiro trabalho na área de tecnologia.
 
-Desenvolvedor web Full Stack e estudante de programação. Focado em iniciar uma carreira no mercado de tecnologia. Algumas das minhas stacks são: JavaScript, HTML, CSS, React (Redux, Hooks e Context API), Jest, Node, TypeScript, Express, MySQL, MongoDB, Docker e utilização de Metodologias Ágeis.
+<h2>O que eu posso fazer<h2>
+Eu tenho experiência em HTML, CSS, JavaScript, React, Vue, Python, MySQL, MongoDB, e eu posso ajudar em projetos relacionados a essas áreas. Eu também estou aberto a aprender novas habilidades e tecnologias.
 
-email: mrenanrguimaraes@gmail.com
+Como entrar em contato comigo
+Se você quiser entrar em contato comigo, você pode me encontrar no meu <a href='https://www.linkedin.com/in/marcus-guimarães-30059b235/'>LinkedIn</a> e no <a href='https://www.instagram.com/marcola_la/'>Instagram</a> ou você pode me envair um email para mrenanrguimarães@gmail.com.
 
-Adoro interagir, criar coisas com outras pessoas, compartilhar conhecimento e viver a tecnologia!
+<h2>Meu portfolio</h2>
+Acesse  <a href='marcus-guimaraes-portfolio.vercel.app'>aqui</a>.
+
+Obrigado por visitar meu perfil do GitHub. Sinta-se à vontade para dar uma olhada nos meus projetos e entrar em contato comigo se quiser conversar sobre tecnologia ou trabalhar em um projeto juntos.
