@@ -25,7 +25,7 @@ Atualmente finalizando o curso de Desenvolvimento Web na Trybe, Trabalhando em p
 
 <h2>Como entrar em contato comigo</h2>
   
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/marcus-guimarães-30059b235/))](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-guimarães-30059b235/)](LINK-DO-SEU-LINKEDIN)
 
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrenanrguimaraes@gmail.com)](mailto:SEU-EMAIL)
 
