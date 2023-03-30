@@ -17,7 +17,10 @@ Atualmente finalizando o curso de Desenvolvimento Web na Trybe, Trabalhando em p
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MrBoats21&bg_color=0d0c0c&color=88a1a8&line=790614&point=502940&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrBoats21&show_icons=true&count_private=true&hide_border=true&title_color=88a1a8&icon_color=790614&text_color=88a1a8&bg_color=0d0c0c"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBoats21&layout=compact&hide_border=true&title_color=88a1a8&text_color=88a1a8&bg_color=0d0c0c" />
+</div>
   
  **Ferramentas de Desenvolvimento**
 
