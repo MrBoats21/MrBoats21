@@ -45,7 +45,7 @@ Atualmente finalizando o curso de Desenvolvimento Web na Trybe, Trabalhando em p
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-Marcus_Guimarães-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-guimar%C3%A3es-30059b235/)](https://www.linkedin.com/in/marcus-guimar%C3%A3es-30059b235/)
 [![Gmail Badge](https://img.shields.io/badge/-mrenanrguimaraes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrenanrguimaraes@gmail.com)](mailto:mrenanrguimaraes@gmail.com)
 
-<h1>Acesse meu portfolio <a href='https://marcus-guimaraes-portfolio.vercel.app/'>aqui</a></h1>
+<h2>Acesse meu portfolio <a href='https://marcus-guimaraes-portfolio.vercel.app/'>⇢ aqui ⇠</a></h2>
 
 <hr/>
 
