@@ -61,5 +61,5 @@ Acesse  <a href='https://marcus-guimaraes-portfolio.vercel.app/'>aqui</a>.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD6387&size=50&center=true&vCenter=true&width=1000&lines=Obrigado,+pela+visita!;Volte+Sempre+ッ)](https://git.io/typing-svg)
 
 <div align="center">
-      <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
+      ![Mario Team](https://user-images.githubusercontent.com/96079205/228954439-2af4d128-8238-492d-8776-a0da9a6984ff.png)
 </div>
