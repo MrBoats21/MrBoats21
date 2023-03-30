@@ -17,7 +17,7 @@ Eu tenho experiência em HTML, CSS, JavaScript, React, Vue, Python, MySQL, Mongo
 Se você quiser entrar em contato comigo, você pode me encontrar no meu <a href='https://www.linkedin.com/in/marcus-guimarães-30059b235/' target='_blank'>LinkedIn</a> e no <a href='https://www.instagram.com/marcola_la/' target='_blank'>Instagram</a> ou você pode me envair um email para <a href='mailto:mrenanrguimaraes@gmail.com'>mrenanrguimaraes@gmail.com</a>.
 
 <h2>Meu portfolio</h2>
-Acesse  <a href='marcus-guimaraes-portfolio.vercel.app'>aqui</a>.
+Acesse  <a href='[marcus-guimaraes-portfolio.vercel.app](https://marcus-guimaraes-portfolio.vercel.app/)'>aqui</a>.
   
 <br/>
   
