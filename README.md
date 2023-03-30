@@ -34,8 +34,9 @@ Acesse  <a href='https://marcus-guimaraes-portfolio.vercel.app/'>aqui</a>.
 <br/>
 <hr/>
 
-[![Meus Status](https://github-readme-stats.vercel.app/api?username=MrBoats21)](https://github.com/MrBoats21/github-readme-stats)
-
+a href="https://github.com/MrBoats21">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrBoats21&theme=dracula&show_icons=true" />
+</a>
 <hr/>
 <h2>Valeu!</h2>
 
