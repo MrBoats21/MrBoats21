@@ -24,7 +24,7 @@ Atualmente finalizando o curso de Desenvolvimento Web na Trybe, Trabalhando em p
   <hr/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBoats21&&theme=dracula&layout=compact" />
   <hr/>
-<div/>
+</div>
   
  **Ferramentas de Desenvolvimento**
 
