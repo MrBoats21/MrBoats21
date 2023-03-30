@@ -46,13 +46,13 @@ Atualmente finalizando o curso de Desenvolvimento Web na Trybe, Trabalhando em p
 <h2>Meu portfolio</h2>
 Acesse  <a href='https://marcus-guimaraes-portfolio.vercel.app/'>aqui</a>.
 
-<br/>
 <hr/>
 
 <a href="https://github.com/MrBoats21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrBoats21&theme=dracula&show_icons=true" />
 </a>
 <hr/>
-<h2>Valeu!</h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=502940&size=35&center=true&vCenter=true&width=1000&lines=Obrigado,+pela+visita!;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 Obrigado por visitar meu perfil do GitHub. Sinta-se à vontade para dar uma olhada nos meus projetos e entrar em contato comigo se quiser conversar sobre tecnologia ou trabalhar em um projeto juntos.
