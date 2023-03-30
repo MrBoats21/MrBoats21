@@ -52,7 +52,7 @@ Acesse  <a href='https://marcus-guimaraes-portfolio.vercel.app/'>aqui</a>.
 
 <hr/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color='#dd6387'&size=35&center=true&vCenter=true&width=1000&lines=Obrigado,+pela+visita!;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#dd6387&size=35&center=true&vCenter=true&width=1000&lines=Obrigado,+pela+visita!;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
