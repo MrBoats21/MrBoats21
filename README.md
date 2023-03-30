@@ -55,4 +55,4 @@ Acesse  <a href='https://marcus-guimaraes-portfolio.vercel.app/'>aqui</a>.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=502940&size=35&center=true&vCenter=true&width=1000&lines=Obrigado,+pela+visita!;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
-Obrigado por visitar meu perfil do GitHub. Sinta-se à vontade para dar uma olhada nos meus projetos e entrar em contato comigo se quiser conversar sobre tecnologia ou trabalhar em um projeto juntos.
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/MARCOLA)
