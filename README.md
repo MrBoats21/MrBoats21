@@ -50,10 +50,7 @@ Acesse  <a href='https://marcus-guimaraes-portfolio.vercel.app/'>aqui</a>.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrBoats21&theme=dracula&show_icons=true" />
 </a>
 
-<hr/>
-
-<br/>
-<br/>
+<hr/ margin->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD6387&size=35&center=true&vCenter=true&width=1000&lines=Obrigado,+pela+visita!;Volte+Sempre+㋡)](https://git.io/typing-svg)
 
