@@ -58,7 +58,7 @@ Acesse  <a href='https://marcus-guimaraes-portfolio.vercel.app/'>aqui</a>.
 
 <p> <br/> <p/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD6387&size=50&center=true&vCenter=true&width=1000&lines=Obrigado,+pela+visita!;Volte+Sempre+ッ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD6387&size=50&center=true&vCenter=true&width=1000&lines=Obrigado+pela+visita!;Volte+Sempre+ッ)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://www.maxlaumeister.com/lfs/stress-test/tumblr_mhjhy3zwVs1rrftcdo1_500.gif"/>
