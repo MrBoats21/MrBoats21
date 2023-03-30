@@ -22,7 +22,7 @@ Atualmente finalizando o curso de Desenvolvimento Web na Trybe, Trabalhando em p
  
 <div align='center'>
   <hr/>
-    <img height="180em" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBoats21&&theme=dracula&layout=compact" />
+    <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBoats21&&theme=dracula&layout=compact" />
   <hr/>
 </div>
   
