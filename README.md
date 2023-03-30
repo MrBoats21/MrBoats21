@@ -1,6 +1,4 @@
-<h1>Olá, sou o Marcus! 👋</h1>
-
-![user (2)](https://user-images.githubusercontent.com/96079205/228938811-2cc70e5e-137f-4aa5-8135-17ef85e441d3.gif)
+<h1>Olá, sou o Marcus! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
 
 <h2>Sobre mim</h2>
 
@@ -54,5 +52,3 @@ Acesse  <a href='https://marcus-guimaraes-portfolio.vercel.app/'>aqui</a>.
 <hr/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=502940&size=35&center=true&vCenter=true&width=1000&lines=Obrigado,+pela+visita!;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/MARCOLA)
