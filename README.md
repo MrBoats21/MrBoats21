@@ -17,7 +17,7 @@ Se você quiser entrar em contato comigo, você pode me encontrar no meu <a href
 <h2>Meu portfolio</h2>
 Acesse  <a href='https://marcus-guimaraes-portfolio.vercel.app/'>aqui</a>.
   
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBoats21)](https://github.com/MrBoats21/github-readme-stats)
+[!(https://github-readme-stats.vercel.app/api?username=MrBoats21)](https://github.com/MrBoats21/github-readme-stats)
   
 <h2>Valeu!</h2>
 
