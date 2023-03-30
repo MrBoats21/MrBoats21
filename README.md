@@ -17,7 +17,7 @@ Atualmente finalizando o curso de Desenvolvimento Web na Trybe, Trabalhando em p
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBoats21&&theme=dracula&layout=compact&hide_border=true" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBoats21&&theme=dracula" />
   
  **Ferramentas de Desenvolvimento**
 
