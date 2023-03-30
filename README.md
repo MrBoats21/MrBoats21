@@ -1,5 +1,7 @@
 <h1>Olá, sou o Marcus! 👋</h1>
 
+![user (2)](https://user-images.githubusercontent.com/96079205/228938811-2cc70e5e-137f-4aa5-8135-17ef85e441d3.gif)
+
 <h2>Sobre mim</h2>
 
 Eu sou um Desenvolvedor Web Full Stack que adora trabalhar em projetos desafiadores e aprender novas tecnologias. Eu estou sempre procurando maneiras de melhorar minhas habilidades e expandir meu conhecimento.
