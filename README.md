@@ -6,13 +6,29 @@ Eu sou um Desenvolvedor Web Full Stack que adora trabalhar em projetos desafiado
 
 Atualmente finalizando o curso de Desenvolvimento Web na Trybe, Trabalhando em projetos pessoais e à procura do meu primeiro trabalho na área de tecnologia.
 
-<h2>O que eu posso fazer</h2>
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+
+**Aplicações e Dados**
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
-Eu tenho experiência em HTML, CSS, JavaScript, React, Vue, Python, MySQL, MongoDB, e eu posso ajudar em projetos relacionados a essas áreas. Eu também estou aberto a aprender novas habilidades e tecnologias.
+ **Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 <h2>Como entrar em contato comigo</h2>
   
-Se você quiser entrar em contato comigo, você pode me encontrar no meu <a href='https://www.linkedin.com/in/marcus-guimarães-30059b235/'>LinkedIn</a> e no <a href='https://www.instagram.com/marcola_la/'>Instagram</a> ou você pode me envair um email para mrenanrguimaraes@gmail.com.
+[![Linkedin: Marcus Guimarães](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/marcus-guimar%C3%A3es-30059b235/))](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 
 <h2>Meu portfolio</h2>
 Acesse  <a href='https://marcus-guimaraes-portfolio.vercel.app/'>aqui</a>.
