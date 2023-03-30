@@ -17,6 +17,8 @@ Atualmente finalizando o curso de Desenvolvimento Web na Trybe, Trabalhando em p
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MrBoats21&bg_color=0d0c0c&color=88a1a8&line=790614&point=502940&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
  **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
