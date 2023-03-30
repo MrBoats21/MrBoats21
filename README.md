@@ -49,6 +49,8 @@ Acesse  <a href='https://marcus-guimaraes-portfolio.vercel.app/'>aqui</a>.
 
 <a href="https://github.com/MrBoats21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrBoats21&theme=dracula&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBoats21&&theme=dracula&layout=compact" />
+
 </a>
 
 <hr/>
@@ -58,7 +60,5 @@ Acesse  <a href='https://marcus-guimaraes-portfolio.vercel.app/'>aqui</a>.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD6387&size=50&center=true&vCenter=true&width=1000&lines=Obrigado,+pela+visita!;Volte+Sempre+ッ)](https://git.io/typing-svg)
 
 <div align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBoats21&&theme=dracula&layout=compact" />
-
+      <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
 </div>
