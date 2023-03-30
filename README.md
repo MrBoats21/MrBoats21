@@ -18,5 +18,7 @@ Se você quiser entrar em contato comigo, você pode me encontrar no meu <a href
 
 <h2>Meu portfolio</h2>
 Acesse  <a href='marcus-guimaraes-portfolio.vercel.app'>aqui</a>.
+  
+<br/>
 
 Obrigado por visitar meu perfil do GitHub. Sinta-se à vontade para dar uma olhada nos meus projetos e entrar em contato comigo se quiser conversar sobre tecnologia ou trabalhar em um projeto juntos.
