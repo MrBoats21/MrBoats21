@@ -49,12 +49,6 @@ Atualmente finalizando o curso de Desenvolvimento Web na Trybe, Trabalhando em p
 
 <hr/>
 
-<a href="https://github.com/MrBoats21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrBoats21&theme=dracula&show_icons=true" />
-</a>
-
-<hr/>
-
 <p> <br/> <p/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DD6387&size=50&center=true&vCenter=true&width=1000&lines=Obrigado+pela+visita!;Volte+Sempre+ッ)](https://git.io/typing-svg)
