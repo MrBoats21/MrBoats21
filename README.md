@@ -15,6 +15,7 @@
 Sou um **Desenvolvedor Web Full Stack** com experiência prática em projetos reais utilizando tanto desenvolvimento tradicional quanto plataformas low-code. Tenho grande entusiasmo por criar soluções inovadoras que resolvam problemas complexos de forma eficiente.
 
 **Atualmente:**
+
 - 💼 Buscando novas oportunidades profissionais em tecnologia
 - 🔭 Desenvolvendo projetos pessoais para expandir meu conhecimento
 - 🌱 Aprendendo mais sobre IA integrada a aplicações
